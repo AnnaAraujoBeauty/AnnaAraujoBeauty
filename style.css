@@ -1,0 +1,41 @@
+* {
+    font-size: 20px;
+}
+body {
+    background-image: linear-gradient(#ff007f, #ac0257);
+}
+.texto{
+    background: #37393da6;
+    color: #fff;
+    width: 60vw;
+}
+.Email {
+    color: #fff;
+    text-decoration: none;
+}
+.Email:hover{
+    color: #ff007f;
+}
+ul{
+    list-style: none;
+    margin: 0;
+}
+.link{
+    color: #2a2c30;
+}
+.link:hover {
+    color: #474a51;
+}
+
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+  
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
